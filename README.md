@@ -26,3 +26,4 @@ Este é um projeto simples em **HTML**, **CSS** e **JavaScript** que demonstra:
   - Camada superior controlada com `z-index`
 - O botão fica parcialmente fora do container para gerar um efeito visual de destaque.
 - Efeitos de `hover` e `active` no botão simulam interações mais naturais.
+---------------------------------------
