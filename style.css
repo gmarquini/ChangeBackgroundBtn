@@ -14,7 +14,7 @@ body {
 .container {
   max-width: 240px;
   height: 300px;
-  margin: 50px auto;
+  margin: 200px auto;
   background: #3d4f83;
   padding: 20px;
   border-radius: 10px;
@@ -50,7 +50,7 @@ body {
   position: absolute;
   width: 240px;
   height: 150px;
-  top: 200px;
+  top: 350px;
   left: 50%;
   transform: translateX(-50%);
   background: rgba(0, 0, 0, 0.3);
